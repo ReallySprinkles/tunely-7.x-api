@@ -36,7 +36,7 @@ export default async (req) => {
           nickname: "tunely user",
           avatar_thumb: {
             url_list: [
-              "https://raw.githubusercontent.com/ReallySprinkles/random-ahh-stuff-lol/refs/heads/main/finn_the_human_pfp_.png"
+              "https://isidjdjdjd.isp/osododod"
             ]
           }
         }
